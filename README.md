@@ -7,6 +7,7 @@ Sou o Thiago um desenvolvedor Web, apaixonado por tecnologia e ansioso para elab
 Buscando sempre me aperfeiçoar 🚀;
 
 Minha base na programação foi construída com JavaScript, onde desenvolvi uma lógica sólida de resolução de problemas. Hoje, aplico esse conhecimento no dia a dia, atuando com as principais tecnologias do mercado baseadas em JS. 📖
+
 Uma frase que eu adoro é "Deus está nos detalhes" de Ludwig Mies van der Rohe 📚.
 
 ## Tecnologias
