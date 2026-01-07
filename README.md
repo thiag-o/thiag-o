@@ -6,8 +6,7 @@ Sou o Thiago um desenvolvedor Web, apaixonado por tecnologia e ansioso para elab
 
 Buscando sempre me aperfeiçoar 🚀;
 
-Comecei a estudar programação com JavaScript. Foi a linguagem que mais desenvolveu minha capacidade de lógica de programação e atualmente trabalho com tecnologias associadas 📖;
-
+Minha base na programação foi construída com JavaScript, onde desenvolvi uma lógica sólida de resolução de problemas. Hoje, aplico esse conhecimento no dia a dia, atuando com as principais tecnologias do mercado baseadas em JS. 📖
 Uma frase que eu adoro é "Deus está nos detalhes" de Ludwig Mies van der Rohe 📚.
 
 ## Tecnologias
